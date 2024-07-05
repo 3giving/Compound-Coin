@@ -24,4 +24,5 @@ Block time is 2 minutes, so 1000 block is about 1,389 days.
 
 More information on website:
 
-http://www.compoundcoins.com
+https://www.compoundcoin.org
+
